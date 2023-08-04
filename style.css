@@ -55,16 +55,15 @@ table,th,td,tr{
   }
   
   #ustcubuk {
+    font-size: 30px;
     text-align: center;
     background-color: black;
     color: white;
     position: relative;
-    left: 100px;
-    bottom: 200px;
+    /*left: 100px;
+    bottom: 200px; *\
   }
 
   #logo{
-
-    width: 100px;
-    height: 100px;
+    
   }
